@@ -68,10 +68,13 @@
   .map-side iframe {
     min-height: 300px;
   }
-  .ifr{
+  .ifr {
     margin-left: 0px;
   }
-  .but{
+  .but {
     margin-left: 93px;
+  }
+  .navbar-toggler {
+    z-index: 3000;
   }
 }
