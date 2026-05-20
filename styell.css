@@ -39,7 +39,7 @@
     height: 300vh !important;
   }
   .deve {
-    margin-top: 200px !important;
+    margin-top: 360px !important;
   }
   .about1 {
     margin-top: 120px !important;
@@ -73,5 +73,11 @@
   }
   .social-icon {
     margin-top: 0px;
+  }
+  .skills{
+    margin-top: 110px;
+  }
+  .title{
+    margin-top: 250px;
   }
 }
