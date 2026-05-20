@@ -4,9 +4,6 @@
     position: relative;
     top: 50px;
   }
-  .social-icon {
-    display: none;
-  }
   .imgs {
     margin-left: 0px;
   }
@@ -73,5 +70,8 @@
   }
   .navbar-toggler {
     z-index: 3000;
+  }
+  .social-icon {
+    padding-top: 10px;
   }
 }

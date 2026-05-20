@@ -34,10 +34,11 @@ body {
 .social-icon {
   font-size: 30px;
   display: flex;
-  flex-direction: column;
-  /* color: white; */
   gap: 15px;
   margin-top: 50px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
 }
 .head {
   display: flex;
@@ -300,6 +301,9 @@ h1 {
   margin-bottom: 50px;
   text-decoration: underline dotted;
 }
+.edu:hover {
+  transform: scale(1.1);
+}
 .mad1 {
   border: 2px solid white;
   height: 150px;
@@ -345,7 +349,6 @@ h1 {
   height: 180px;
   border-radius: 20px;
   transition: 1s;
- 
 }
 .projectt:hover {
   box-shadow:
@@ -365,9 +368,9 @@ h1 {
   width: 100%;
   color: white;
   text-align: center;
-   text-decoration: underline dotted;
-   letter-spacing: 2px;
-   font-size: 40px;
+  text-decoration: underline dotted;
+  letter-spacing: 2px;
+  font-size: 40px;
 }
 .contact-section {
   padding: 60px 0;
@@ -405,11 +408,11 @@ textarea.form-control {
   transition: 0.3s;
   margin-top: 20px;
 }
-.btn-contact:hover{
+.btn-contact:hover {
   font-weight: 900;
-  background-color: lightcoral;
+  background-color: cadetblue;
   box-shadow: 0px 0px 10px lightyellow;
 }
-.ifr{
+.ifr {
   margin-left: 50px;
 }
