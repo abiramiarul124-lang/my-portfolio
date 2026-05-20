@@ -74,10 +74,14 @@
   .social-icon {
     margin-top: 0px;
   }
-  .skills{
+  .skills {
     margin-top: 110px;
   }
-  .title{
+  .title {
     margin-top: 250px;
+  }
+  .sec8 {
+    margin-top: 450px;
+    margin-bottom: 40px;
   }
 }
